@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color: #514a38; margin-top:0px; font-family:Century Gothic, Verdana, Arial, Helvetica, sans-serif; font-size:12px; }
+
+a:link {  color: #c3c0b8; text-decoration: none }
+a:visited {  color: #c3c0b8;}
+a:active {  color: #c3c0b8;}
+a:hover {  color: #FFFFFF; }
+
+a.bright:link {  color: #592819; text-decoration: none}
+a.bright:visited {  color: #592819; text-decoration: none}
+a.bright:active {  color: #592819; }
+a.bright:hover {  color: #9ABA3D; }
+
+.maintext {font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; color: #000000; line-height:18px; }
+
+.navtext {font-family: Century Gothic, Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #ffffff;}
+
+.pictures {border:double; border:#ffffff}
+
+.whitetext {font-family:Arial, Helvetica, sans-serif; font-size: 12pt; color:#FFFFFF;}
+
+.drkbrowntext {font-family:Century Gothic, Verdana, sans-serif; font-size: 12pt; color:#353125;}
+
+.minitext {font-family: Century Gothic, Verdana, sans-serif; font-size: 12px; color: #c3c0b8;}
+
+.orangetext {font-family:Arial, Helvetica, sans-serif; font-size: 15pt; color:#E3B672;}
